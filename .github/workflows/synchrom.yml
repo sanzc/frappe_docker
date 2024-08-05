@@ -38,6 +38,6 @@ jobs:
         build-args: |
           FRAPPE_PATH=https://gitlab.com/dokos/dodock
           FRAPPE_BRANCH=v4
-          PYTHON_VERSION=3.12
+          PYTHON_VERSION=3.11
           NODE_VERSION=18.18.2
         no-cache: true
